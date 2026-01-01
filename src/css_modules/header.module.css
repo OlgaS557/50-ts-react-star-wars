@@ -1,0 +1,9 @@
+.header {
+    padding-top: 1rem; /* Подгоните значение при необходимости */
+}
+
+@media (max-width: 768px) {
+    .header {
+        padding-top: 3rem; /* Увеличиваем отступ для небольших экранов */
+    }
+}
