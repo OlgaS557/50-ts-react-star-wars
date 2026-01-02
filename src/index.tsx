@@ -8,7 +8,7 @@ import { BrowserRouter } from 'react-router-dom';
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename='/50-ts-react-star-wars'>
       <App />
     </BrowserRouter>
   </React.StrictMode>,

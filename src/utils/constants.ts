@@ -10,7 +10,7 @@ import friend8 from '../Images/friend8.jpg';
 import friend9 from '../Images/friend9.jpg';
 import { Characters } from '../types';
 
-export const base_url = 'http://sw-info-api.herokuapp.com';
+export const base_url = 'https://sw-info-api.herokuapp.com';
 
 export const version = '/v1';
 
